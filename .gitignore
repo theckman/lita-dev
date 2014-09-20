@@ -11,6 +11,7 @@
 
 Gemfile
 config.rb
+default_config.rb
 
 ## Specific to RubyMotion:
 .dat*
